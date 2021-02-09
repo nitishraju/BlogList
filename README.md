@@ -1,3 +1,3 @@
 ## BlogList
 
-A simple blog curation built using the MERN stack. Tests written using Jest & Cypress.
+A blog curation application built using the MERN stack. Tests written using Jest & Cypress.
